@@ -1,0 +1,43 @@
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 450px;
+  border-radius: 8px;
+  box-shadow: inset 0px -17vw 20vw 1vw #606060;
+}
+
+.album{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+  color: #ffffff;
+  font-size: large;
+  
+}
+
+body {
+	font-family: var(--sans-serif);
+	background: #000000;
+}
+
+body {
+	background: #000000;
+}
+
+.background {
+	
+	width: 100%;
+  height: 56.25vw;
+  box-shadow: inset 0px -17vw 20vw 1vw #000000;
+  position: absolute;
+  top: 0;
+  box-shadow: inset 0px -17vw 30vw 1vw #232323;
+  z-index: -1;
+  
+	
+} 
+
+  
